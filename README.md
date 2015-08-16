@@ -1,4 +1,4 @@
-variables
+Variables
 =========
 
-Programs for the first unit of AS computing
+As Computing Python Part 1
